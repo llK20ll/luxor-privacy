@@ -1,2 +1,0 @@
-# luxor-privacy
-privacy
